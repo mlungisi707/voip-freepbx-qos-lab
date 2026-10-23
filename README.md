@@ -46,7 +46,7 @@ This project demonstrates the engineering deployment, configuration, and optimiz
 ### Figure 1: Virtual Hardware Shell and Storage Allocation
 Confirms successful deployment of the 60 GB virtual storage subsystem and the active Linux console engine runtime environment.
 
-![01_vmware_virtual_hardware_architure](./01_vmware_virtual_hardware_architure.png)
+![01_vmware_virtual_hardware_architucture](./01_vmware_virtual_hardware_architucture.png)
 
 ### Figure 2: Application Endpoint Workspace Table
 Displays the active FreePBX web management registry verifying the complete logical compilation of Extensions 1001 and 1002.
